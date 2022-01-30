@@ -29,7 +29,7 @@ hs_err_pid*
 /gradle/
 /.zip
 /.rar
-target/
+/target/
 libs/*.jar
 pom.xml.tag
 pom.xml.releaseBackup
